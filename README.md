@@ -3,11 +3,11 @@
 A Python script generates a Spotify playlist containing the top 100 songs from a given date based on the Billboard Hot 100 chart.It uses the requests library to scrape song data from the Billboard website and the Spotipy library to create a Spotify playlist with the retrieved songs.
 
 Table of Contents
-Requirements(##Requirements)
-Obtaining Spotify Client ID and Client Secret(#Obtaining Spotify Client ID and Client Secret)
-Installation(#Installation)
-Usage(#Usage)
-Known Limitations
+[Requirements](#Requirements)
+[Obtaining Spotify Client ID and Client Secret](#Obtaining Spotify Client ID and Client Secret)
+[Installation](#Installation)
+[Usage](#Usage)
+[Known Limitations]
 
 ## Requirements
 
